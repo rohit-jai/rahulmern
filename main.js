@@ -5,9 +5,8 @@ const mongoose = require('mongoose')
 const url = 'mongodb://localhost:27017/rohit'
 const app = express()
 app.use(express.json());
-
+rahul 
 port = process.env.port || 9000
-rohit jasiwal
 //app.use(bodyParser.urlencoded({ extended: false }))
  
 // parse application/json
